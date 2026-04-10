@@ -55,3 +55,7 @@ We're working in milestones with clear deadlines and defined ownership at each s
 ## Final Commitment
 
 By agreeing to these rules, every team member commits to professionalism, accountability, communication, and equal effort throughout the project lifecycle. Our goal is not simply to complete the assignment, but to build something meaningful while operating as a disciplined and supportive software engineering team.
+
+## Individual Acknowledgement
+
+Name: _____
