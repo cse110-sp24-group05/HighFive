@@ -38,11 +38,11 @@ Year: Second Year
 About: Passionate about problem-solving and learning software development through the process.  
 GitHub: https://github.com/stevenchenhanwen2006
 
-**Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+**Jayden Xie**  
+Major: Computer Science
+Year: Third Year
+About: Full stack development experience, along with AI, mobile app, and game development projects.
+GitHub: https://github.com/HaolinX
 
 **Member Name**  
 Major:   
