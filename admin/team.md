@@ -50,11 +50,11 @@ Year: Second Year
 About: Game developer with experience making web/mobile apps. Interested in making fun & useful software.  
 GitHub: https://github.com/NickMitroff  
 
-**Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+**Jared Rosas*  
+Major: Math-CS 
+Year: 4
+About:  Love to play overwatch and practice LeetCode.
+GitHub:   https://github.com/jaredsbt
 
 **Member Name**  
 Major:   
