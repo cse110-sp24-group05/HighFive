@@ -1,4 +1,5 @@
 # Team Hi5 ✋
+
 ## Team Brand
 
 Our team, **Hi5**, is built around collaboration and strong team energy. The name comes from a high-five, which represents teamwork, support, and shared success. We wanted something simple and recognizable that reflects how we work together.
@@ -7,16 +8,13 @@ Our branding is clean and consistent. We use a high-five hand as our main visual
 
 We use these elements across our presentations, documents, and video so our team identity stays consistent throughout the project. Our Slack workspace icon follows the same style and includes our team number.
 
-
 ## Team Values
 
-- We communicate clearly and keep everyone updated  
-- We take responsibility for our work  
-- We stay consistent instead of rushing last minute  
-- We support each other when someone is stuck  
-- We focus on getting things done properly  
-
-
+- We communicate clearly and keep everyone updated
+- We take responsibility for our work
+- We stay consistent instead of rushing last minute
+- We support each other when someone is stuck
+- We focus on getting things done properly
 
 ## Team Roster
 
@@ -27,10 +25,10 @@ About: Team lead with experience in machine learning research and an interest in
 GitHub: https://github.com/avaemi
 
 **Member Name**  
-Major:   
-Year:   
+Major:  
+Year:  
 About: Team lead.  
-GitHub:   
+GitHub:
 
 **Hanwen Chen**  
 Major: Math - CS  
@@ -48,50 +46,49 @@ GitHub: https://github.com/HaolinX
 Major: Computer Science  
 Year: Second Year  
 About: Game developer with experience making web/mobile apps. Interested in making fun & useful software.  
-GitHub: https://github.com/NickMitroff  
+GitHub: https://github.com/NickMitroff
 
-**Jared Rosas*  
-Major: Math-CS 
+**Jared Rosas**  
+Major: Math-CS
 Year: 4
-About:  Love to play overwatch and practice LeetCode.
-GitHub:   https://github.com/jaredsbt
+About: Love to play overwatch and practice LeetCode.
+GitHub: https://github.com/jaredsbt
+
+**Hien Tran**  
+Major: Computer Science
+Year: Third Year
+About: I'm currently conducting an AI research, and I love building things and learning about technologies that can make a difference.
+GitHub: https://github.com/tmhiennn
 
 **Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+Major:  
+Year:  
+About:  
+GitHub:
 
 **Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+Major:  
+Year:  
+About:  
+GitHub:
 
 **Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+Major:  
+Year:  
+About:  
+GitHub:
 
 **Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+Major:  
+Year:  
+About:  
+GitHub:
 
 **Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
-
-**Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
-
+Major:  
+Year:  
+About:  
+GitHub:
 
 ## Team Culture
 
