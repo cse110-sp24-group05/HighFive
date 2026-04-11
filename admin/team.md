@@ -33,9 +33,9 @@ About: Team lead.
 GitHub:   
 
 **Hanwen Chen**  
-Major: Math - CS
-Year: Second Year
-About: Passionate about problem-solving and learning software development through the process.
+Major: Math - CS  
+Year: Second Year  
+About: Passionate about problem-solving and learning software development through the process.  
 GitHub: https://github.com/stevenchenhanwen2006
 
 **Member Name**  
