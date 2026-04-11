@@ -44,11 +44,11 @@ Year: Third Year
 About: Full stack development experience, along with AI, mobile app, and game development projects.
 GitHub: https://github.com/HaolinX
 
-**Member Name**  
-Major:   
-Year:   
-About:   
-GitHub:   
+**Nick Mitroff**  
+Major: Computer Science  
+Year: Second Year  
+About: Game developer with experience making web/mobile apps. Interested in making fun & useful software.  
+GitHub: https://github.com/NickMitroff  
 
 **Member Name**  
 Major:   
