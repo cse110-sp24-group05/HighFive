@@ -24,7 +24,7 @@ We use these elements across our presentations, documents, and video so our team
 Major: Computer Science  
 Year: Third Year  
 About: Team lead with experience in machine learning research and an interest in product management roles.  
-GitHub: https://github.com/YOUR-USERNAME  
+GitHub: https://github.com/avaemi
 
 **Member Name**  
 Major:   
