@@ -17,7 +17,6 @@ We use these elements across our presentations, documents, and video so our team
 - We focus on getting things done properly  
 
 
-## Team Roster
 
 ## Team Roster
 
