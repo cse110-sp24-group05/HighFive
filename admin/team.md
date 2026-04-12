@@ -78,11 +78,11 @@ Year:   Second Year
 About:  Interest in UI/UX and frontend development. I love to make things look pretty.
 GitHub: https://github.com/mantuetr
 
-**Member Name**  
-Major:  
-Year:  
-About:  
-GitHub:
+**Pranav Puttagunta**  
+Major: Computer Science  
+Year: Second Year  
+About: I'm heavily involved in robotics, and like doing research and backend development, especially with CV and AI. Also like gym and taekwondo.   
+GitHub: https://github.com/pranavputtagunta
 
 **Member Name**  
 Major:  
