@@ -60,11 +60,11 @@ Year: Third Year
 About: I'm currently conducting an AI research, and I love building things and learning about technologies that can make a difference.
 GitHub: https://github.com/tmhiennn
 
-**Member Name**  
-Major:  
-Year:  
-About:  
-GitHub:
+**Zay Htet**  
+Major: Computer Engineering
+Year: Junior
+About: I'm passionate about hardware design and devlopment
+GitHub: https://github.com/zaylh17
 
 **Member Name**  
 Major:  
