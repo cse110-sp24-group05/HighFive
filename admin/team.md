@@ -72,11 +72,11 @@ Year: Junior
 About: I'm passionate about hardware design and devlopment
 GitHub: https://github.com/zaylh17
 
-**Member Name**  
-Major:  
-Year:  
-About:  
-GitHub:
+**Lisa Tran**  
+Major:  Computer Science
+Year:   Second Year
+About:  Interest in UI/UX and frontend development. I love to make things look pretty.
+GitHub: https://github.com/mantuetr
 
 **Member Name**  
 Major:  
