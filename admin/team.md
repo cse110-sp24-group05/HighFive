@@ -84,11 +84,11 @@ Year: Second Year
 About: I'm heavily involved in robotics, and like doing research and backend development, especially with CV and AI. Also like gym and taekwondo.   
 GitHub: https://github.com/pranavputtagunta
 
-**Member Name**  
-Major:  
-Year:  
-About:  
-GitHub:
+**Nikolas Malek**  
+Major:  Cognitive Science
+Year:  Fourth Year
+About:  I like playing basketball and chess. Looking for a data/AI job.
+GitHub: https://github.com/NikolasMalek
 
 ## Team Culture
 
