@@ -24,11 +24,11 @@ Year: Third Year
 About: Team lead with experience in machine learning research and an interest in product management roles.  
 GitHub: https://github.com/avaemi
 
-**Member Name**  
-Major:  
-Year:  
-About: Team lead.  
-GitHub:
+**Patrick Chung**  
+Major: Computer Science
+Year: Second Year
+About: Team lead with experience in software development through internships and projects. Passionate about making a difference in the world.
+GitHub: https://github.com/TheAsianFish
 
 **Hanwen Chen**  
 Major: Math - CS  
