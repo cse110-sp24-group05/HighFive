@@ -42,6 +42,12 @@ Year: Third Year
 About: Full stack development experience, along with AI, mobile app, and game development projects.
 GitHub: https://github.com/HaolinX
 
+**Jaylen Cun**  
+Major:  Computer Science, (Math minor)
+Year:  Second Year
+About:  Versatile arsenal of coding languages; quick to pick up new skills; interests in ML/AI. I love the process of problem solving and building software with real-world impact.
+GitHub: https://github.com/Jscun8
+
 **Nick Mitroff**  
 Major: Computer Science  
 Year: Second Year  
@@ -65,12 +71,6 @@ Major: Computer Engineering
 Year: Junior
 About: I'm passionate about hardware design and devlopment
 GitHub: https://github.com/zaylh17
-
-**Member Name**  
-Major:  
-Year:  
-About:  
-GitHub:
 
 **Member Name**  
 Major:  
